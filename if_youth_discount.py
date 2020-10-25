@@ -1,7 +1,7 @@
-age = 15
+age = 20
 
-if age<18:
-    print("청소년할인")
+if age<30:
+    print("청년할인")
 else:
     print("슬프다")
 
